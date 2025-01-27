@@ -5,3 +5,15 @@ Overview
 Suicide is a critical public health concern, and detecting warning signs in text data can save lives. This project uses Natural Language Processing (NLP) techniques to detect suicidal intent or warning signs from text-based data, leveraging the power of machine learning and deep learning to identify patterns that may indicate mental health distress.
 
 This repository contains the complete workflow for building a Suicide Detection system, from data preprocessing to model development and evaluation.
+
+Features
+
+  •  Text Preprocessing: Tokenization, stopword removal, and lemmatization.
+
+  •  Vectorization: TF-IDF and CountVectorizer to convert text into numerical form.
+
+  •  Models: Logistic Regression, SVM, Random Forest, LSTM, and BERT for classification.
+
+  •  Evaluation: Accuracy, Precision, Recall, and F1 Score for performance assessment.
+
+  •  Visualization: Dataset and results visualized using Matplotlib and Seaborn.
