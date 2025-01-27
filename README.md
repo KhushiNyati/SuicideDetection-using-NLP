@@ -17,3 +17,11 @@ Features
   •  Evaluation: Accuracy, Precision, Recall, and F1 Score for performance assessment.
 
   •  Visualization: Dataset and results visualized using Matplotlib and Seaborn.
+
+Data : https://github.com/KhushiNyati/SuicideDetection-using-NLP/blob/main/file1.csv
+
+Suicide Detection using bert.ipynb : https://github.com/KhushiNyati/SuicideDetection-using-NLP/blob/main/Suicide%20Detection%20using%20bert.ipynb
+
+suicide detection.ipynb : https://github.com/KhushiNyati/SuicideDetection-using-NLP/blob/main/suicide%20detection.ipynb
+
+Report : https://github.com/KhushiNyati/SuicideDetection-using-NLP/blob/main/Report.pdf
